@@ -6,7 +6,6 @@
 
 ## My GitHub> [Link](https://github.com/enjincc/enjincc)
 ## For more details see GitHub Enjin.
-## Para mais detalhes visite GutHub Enjin.
 ## <img src="https://media.discordapp.net/attachments/432702330115457045/435840621291372556/00001.jpg"/>
 ##  Enjin Theme
 ##  configuration file.
