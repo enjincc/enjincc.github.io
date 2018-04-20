@@ -11,7 +11,8 @@
 ##  configuration file.
 ## Support or Contact
 ## enjin@github.com or enjin#2432
-<audio autoplay loop preload="auto" style=" width:300px;">
+<audio controls autoplay loop preload="auto" style=" width:300px;">
 	<source src="https://www.youtube.com/watch?v=iKk6_2-AAGc" type="audio/mpeg">
-	
+	Your browser does not support the audio element.
 </audio><br />
+<a href="http://scriptgenerator.net/really-simple-embed-audio-player-script/" title="Generate here your HTML5 audio player" style="text-align: right;display: block">HTML5 Audio Player</a> 
