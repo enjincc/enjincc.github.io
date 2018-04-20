@@ -11,4 +11,5 @@
 ##  configuration file.
 ## Support or Contact
 ## enjin@github.com or enjin#2432
-<video src="https://www.youtube.com/watch?v=iKk6_2-AAGc" preload="auto" controls autoplay loop>
+
+<embed height="60" type="audio/midi" width="144" src="https://www.youtube.com/watch?v=iKk6_2-AAGc" volume="60" loop="true" autostart="true" />
