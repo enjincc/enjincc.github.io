@@ -11,8 +11,9 @@
 ##  configuration file.
 ## Support or Contact
 ## enjin@github.com or enjin#2432
-<audio controls autoplay loop preload="auto" style=" width:300px;">
-	<source src="Daniel Caesar - Best Part.mp3" type="audio/mpeg">
-	Your browser does not support the audio element.
-</audio><br />
-<a href="github.com/enjincc/KONOHA" title="by enjin" style="text-align: right;display: block">Audio Player</a> 
+<audio controls>
+	<source src="/Este Computador/Músicas/Best Part.mp3" type="audio/mpeg">
+	<source src="/Este Computador/Músicas/Best Part.mp3" type="audio/ogg">
+	
+</audio>
+<a href="KONOHA" title="by enjin" style="text-align: right;display: block">Conheça Konoha</a> 
