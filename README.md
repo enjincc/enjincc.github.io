@@ -11,10 +11,8 @@
 ##  configuration file.
 ## Support or Contact
 ## enjin@github.com or enjin#2432
-<embed height="60" type="audio/midi" width="144" src="audio.mp3" volume="60" loop="true" autostart="true" />
-<audio controls>
+<audio controls autoplay preload="auto" style=" width:300px;">
 	<source src="https://www.youtube.com/watch?v=iKk6_2-AAGc" type="audio/mpeg">
-	<source src="https://www.youtube.com/watch?v=iKk6_2-AAGc" type="audio/ogg">
 	
-</audio>
+</audio><br />
 <a href="KONOHA" title="by enjin" style="text-align: right;display: block">Conheça Konoha</a> 
