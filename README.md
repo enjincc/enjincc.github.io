@@ -12,8 +12,8 @@
 ## Support or Contact
 ## enjin@github.com or enjin#2432
 <audio controls>
-	<source src="/Este Computador/Músicas/Best Part.mp3" type="audio/mpeg">
-	<source src="/Este Computador/Músicas/Best Part.mp3" type="audio/ogg">
+	<source src="C:\Users\scoma\Music\Best Part.mp3" type="audio/mpeg">
+	<source src=C:\Users\scoma\Music\Best Part.mp3" type="audio/ogg">
 	
 </audio>
 <a href="KONOHA" title="by enjin" style="text-align: right;display: block">Conheça Konoha</a> 
