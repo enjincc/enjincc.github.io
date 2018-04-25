@@ -11,14 +11,6 @@
 ##  configuration file.
 ## Support or Contact
 ## enjin@github.com or enjin#2432
+<video src="musica/Best Part.mp3 autostart="true" loop="true"
 
-<html>
-<body>
-
-<embed src="musica/Best Part.mp3 autostart="true" loop="true"
-
-</body>
-</html>
-	
-</audio><br />
 <a href="KONOHA" title="by enjin" style="text-align: right;display: block">Conheça Konoha</a> 
