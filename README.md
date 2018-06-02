@@ -1,6 +1,3 @@
-## Welcome to Enjin Homepage!
-## On question?Ask me.
-
 ## Bem vindo à pagina do enjin.cc
 ## Precisa de algo? Pergunte.
 
