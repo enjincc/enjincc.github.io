@@ -7,7 +7,7 @@
 ##  Enjin Theme
 ##  configuration file.
 ## Support or Contact
-## enjin@github.com or enjin#2432
+## enjin@github.com or enjin#4050
 
 
 <a href="KONOHA" title="by enjin" style="text-align: right;display: block">Conheça Konoha</a> 
